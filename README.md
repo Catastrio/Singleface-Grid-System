@@ -14,4 +14,5 @@ Default State: This needs to be completely redone for the final project. As of r
 
 readyForMove State: The bread and butter. Eventually, the player will be a state machine that can wait turns or enter special condition states. Right now, the player enters and then remains in this state until reset. While in this state, any click on the grid will move the player object to that square.
 
-https://youtu.be/uPfG5mQ4vfg Here's a video of me talking about all of my experiments and trials before getting to a passable stage.
+Here's a video of me talking about all of my experiments and trials before getting to a passable stage:
+[![](http://img.youtube.com/vi/uPfG5mQ4vfg/0.jpg)](http://www.youtube.com/watch?v=uPfG5mQ4vfg "")
