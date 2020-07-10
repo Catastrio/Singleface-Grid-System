@@ -13,3 +13,5 @@ Display() - A useful debugging method. This displays the current and old coordin
 Default State: This needs to be completely redone for the final project. As of right now, it *gets the job done.* Final version will instantiate a player object, it will either be told where to rez where it will store that information or it will ask the user where it should rez. Right now, it's kinda wonky just to get it to work.
 
 readyForMove State: The bread and butter. Eventually, the player will be a state machine that can wait turns or enter special condition states. Right now, the player enters and then remains in this state until reset. While in this state, any click on the grid will move the player object to that square.
+
+https://youtu.be/uPfG5mQ4vfg Here's a video of me talking about all of my experiments and trials before getting to a passable stage.
